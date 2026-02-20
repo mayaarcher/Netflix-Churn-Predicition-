@@ -88,11 +88,11 @@
     </tr>
     <tr>
       <td><strong>Short–Medium Term</strong></td>
-      <td>Re-examine the Netflix Household policy — higher profile counts are strongly associated with lower churn</td>
+      <td>Re-examine the Netflix Household policy since higher profile counts are strongly associated with lower churn</td>
     </tr>
     <tr>
       <td><strong>Long Term</strong></td>
-      <td>Measure intervention impact via 30-day retention rate, cost per saved customer, and ROI per campaign</td>
+      <td>Measure intervention impact via 30 day retention rate, cost per saved customer, and ROI per campaign</td>
     </tr>
   </tbody>
 </table>
