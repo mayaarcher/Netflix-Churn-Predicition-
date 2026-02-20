@@ -1,6 +1,3 @@
-getwd()
-setwd("/Users/mika100303/Desktop/Master/Intro to Data Science/Presentation IDS")
-
 install.packages(c("glmnet", "caret", "car", "corrplot", "ggplot2", "MASS", "stats"))
 library(caret)
 library(car)      
