@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  A logistic regression–based machine learning project predicting Netflix subscriber churn
+  A logistic regression based machine learning project predicting Netflix subscriber churn
   using customer demographics, subscription details, and usage behavior.
 </p>
 
@@ -15,8 +15,8 @@
 <p>
   This project investigates which customer characteristics and usage patterns are most predictive
   of Netflix churn. Using a dataset of 5,000 Netflix customer records from Kaggle, we built and
-  validated a logistic regression model — alongside penalized variants (Ridge, Lasso, Elastic Net)
-  — to classify whether a subscriber is likely to cancel their subscription.
+  validated a logistic regression model alongside penalized variants (Ridge, Lasso, Elastic Net)
+  to classify whether a subscriber is likely to cancel their subscription.
 </p>
 
 <h2> Dataset</h2>
